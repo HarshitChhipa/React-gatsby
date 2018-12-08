@@ -8,9 +8,19 @@ git clone https://github.com/HarshitChhipa/React-gatsby.git
 
 npm install or yarn
 
-cd 
+cd hello-gatsby
+
+gatsby develop
 ```
 
 
 ## Running in development
 `gatsby develop`
+
+`develop`:`gatsby develop`
+
+`start`: `npm run develop`
+
+`build`: `gatsby build`
+
+`serve`: `gatsby serve`
