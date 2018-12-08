@@ -1,4 +1,4 @@
-#My First React project created by gatsby. 
+# My First React project created by gatsby. 
 
 Basic and very small app in react.
 
