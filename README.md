@@ -1,4 +1,4 @@
-# React Webapp with gatsby.
+#My First React project created by gatsby. 
 
 Basic and very small app in react.
 
